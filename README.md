@@ -1,8 +1,8 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/git-homepage.gif)
 
-<a href=#><img src="contributions.svg"></a>
+<a href="https://github.com/VishaljiODEDRA"><img src="git-homepage.svg"></a>
+<a href="https://github.com/VishaljiODEDRA"><img src="contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vishwajeetsinh7/count.svg" />
+  <img src="https://profile-counter.glitch.me/VishaljiODEDRA/count.svg" />
 </p>
