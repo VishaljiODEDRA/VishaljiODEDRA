@@ -1,4 +1,6 @@
-<a href=#><img src="git-homepage.gif"></a>
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/git-homepage.gif)
+
+<a href=#><img src="contributions.gif"></a>
 
 <p align="center"> 
   Visitor Count<br>
